@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "North Sky Watch",
+  "short_name": "Sky Watch",
+  "description": "Personal severe-weather command center with Calgary home base and live North American weather alerts.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#07111a",
+  "theme_color": "#07111a",
+  "categories": ["weather", "utilities"],
+  "icons": [
+    {"src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}
+  ]
+}
